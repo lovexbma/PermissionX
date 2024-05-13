@@ -1,1 +1,2 @@
 # PermissionX
+使用registerForActivityResult方式写的申请权限例子
